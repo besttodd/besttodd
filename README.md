@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Todd Best and this some the stuff I have done! :bowtie:
+## Hi there 👋 I'm Todd Best and here is some stuff I have done! :bowtie:
 
 <!--
 **besttodd/besttodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
