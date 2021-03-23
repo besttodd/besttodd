@@ -5,8 +5,8 @@
 -->
 
 - 🔭 I’m currently working on getting a job in the IT industry
-- 🌱 I’m currently learning anything and everything I can
-- 🤔 I’m looking for help with feedback or advice to starting out
+- 🌱 I’m currently brushing up on my Java and playing with Android apps
+- 🤔 I’m looking for leads into the IT world
 - ⚡ Fun fact: I like 4x4's, big tyres and mud
 
 ### Languages & Tools
